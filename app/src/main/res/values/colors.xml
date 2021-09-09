@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="defaultToastBackground">#3c3b39</color>
+    <color name="successToastBackground">#49b150</color>
+    <color name="errorToastBackground">#f5443c</color>
+    <color name="infoToastBackground">#3e51b7</color>
+    <color name="warningToastBackground">#ff9a00</color>
+
+    <color name="defaultToastTextColor">#FFF</color>
+    <color name="successToastTextColor">#FFF</color>
+    <color name="errorToastTextColor">#FFF</color>
+    <color name="infoToastTextColor">#FFF</color>
+    <color name="warningToastTextColor">#FFF</color>
+
+</resources>
